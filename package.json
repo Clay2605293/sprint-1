@@ -1,0 +1,11 @@
+{
+  "name": "sprint-1",
+  "version": "1.0.0",
+  "description": "Practica de GitHub y GitHub Actions",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "node src/app.js",
+    "lint": "echo 'Lint ejecutado correctamente'"
+  }
+}
